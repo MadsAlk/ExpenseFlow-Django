@@ -14,7 +14,6 @@ DB_NAME,DB_USER,DB_USER_PASSWORD,DB_HOST,SECRET_KEY,EMAIL_HOST,EMAIL_HOST_USER,E
   <img src="screenshots/register1.PNG" alt="MAP" width="300" style="margin-right: 10px;">
   <img src="screenshots/register2.PNG" alt="DESC" width="300" style="margin-right: 10px;">
   <img src="screenshots/register3.PNG" alt="IMG" width="300" style="margin-right: 10px;">
-  <img src="screenshots/Login.PNG" alt="Login" width="300" style="margin-right: 10px;">
-  <img src="screenshots/expenses.PNG" alt="MAP" width="900">
-  <img src="screenshots/addexpense.PNG" alt="MAP" width="900">
+  <img src="screenshots/expenses.PNG" alt="MAP" width="900"style="margin-right: 10px;">
+  <img src="screenshots/addexpense.PNG" alt="MAP" width="900"style="margin-right: 10px;">
 </div>
