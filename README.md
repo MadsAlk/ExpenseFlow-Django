@@ -1,13 +1,27 @@
 # ExpenseFlow-Django
-A Django website for monitoring and analyzing expenses.
-Using PostgresDB.
-Registration: Form validation for username, email, password, email confirmation message to activate account.
-Login: Can't enter main page if not logged in.
-Expenses can be added, edited with input validation, and deleted.
-Working on more functionality.
+<head>
+    <title>Django Expense Monitoring Website</title>
+</head>
 
-Before using, make sure to create a file for environment variables, or add the following variables to the settings.py file:
-DB_NAME,DB_USER,DB_USER_PASSWORD,DB_HOST,SECRET_KEY,EMAIL_HOST,EMAIL_HOST_USER,EMAIL_USE_TLS,DEFAULT_FROM_EMAIL,EMAIL_PORT,EMAIL_HOST_PASSWORD.
+<body>
+    <h1>A Django Website for Monitoring and Analyzing Expenses</h1>
+    <p>Using PostgresDB</p>
+    <h2>Registration:</h2>
+    <p>Form validation for username, email, password</p>
+    <p>Email confirmation message to activate account</p>
+    <h2>Login:</h2>
+    <p>Can't enter the main page if not logged in</p>
+    <h2>Expenses:</h2>
+    <p>Expenses can be added, edited with input validation, and deleted</p>
+    <p>Working on more functionality</p>
+    <p><strong>Before using, make sure to:</strong></p>
+    <ul>
+        <li>Create a file for environment variables, or</li>
+        <li>Add the following variables to the settings.py file:</li>
+    </ul>
+    <p>DB_NAME, DB_USER, DB_USER_PASSWORD, DB_HOST, SECRET_KEY, EMAIL_HOST, EMAIL_HOST_USER, EMAIL_USE_TLS,
+        DEFAULT_FROM_EMAIL, EMAIL_PORT, EMAIL_HOST_PASSWORD</p>
+</body>
 
 <div style="display: flex;">
   
