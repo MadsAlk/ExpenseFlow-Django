@@ -1,6 +1,6 @@
 # ExpenseFlow-Django
 <head>
-    <title>Django Expense Monitoring Website</title>
+    Django Expense Monitoring Website
 </head>
 
 <body>
